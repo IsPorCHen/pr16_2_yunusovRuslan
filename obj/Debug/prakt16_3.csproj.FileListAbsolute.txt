@@ -1,0 +1,7 @@
+E:\Основы алгоритмизации\prakt16_3\bin\Debug\prakt16_3.exe.config
+E:\Основы алгоритмизации\prakt16_3\bin\Debug\prakt16_3.exe
+E:\Основы алгоритмизации\prakt16_3\bin\Debug\prakt16_3.pdb
+E:\Основы алгоритмизации\prakt16_3\obj\Debug\prakt16_3.csproj.AssemblyReference.cache
+E:\Основы алгоритмизации\prakt16_3\obj\Debug\prakt16_3.csproj.CoreCompileInputs.cache
+E:\Основы алгоритмизации\prakt16_3\obj\Debug\prakt16_3.exe
+E:\Основы алгоритмизации\prakt16_3\obj\Debug\prakt16_3.pdb
